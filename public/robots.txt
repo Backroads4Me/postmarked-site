@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://postmarked.io/sitemap-index.xml
