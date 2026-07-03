@@ -1,0 +1,1 @@
+Workspace rules: `../AGENTS.md`
