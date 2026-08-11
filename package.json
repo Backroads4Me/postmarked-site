@@ -10,7 +10,10 @@
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.6.0",
-    "astro": "^5.12.9"
+    "astro": "^7.2.0"
   },
-  "devDependencies": {}
+  "allowScripts": {
+    "sharp@0.34.5": true,
+    "esbuild@0.28.2": true
+  }
 }
