@@ -1,6 +1,16 @@
-# Postmarked Marketing Site
+# Postmarked Website
 
-Static Astro landing page for [Postmarked](https://github.com/Backroads4Me/postmarked), designed to match the public app at [werehere.app](https://werehere.app).
+The source for [Postmarked.io](https://postmarked.io/), the public website for
+[Postmarked](https://github.com/Backroads4Me/postmarked)—a private, self-hosted
+way to share travel photos, videos, and updates with family and friends.
+
+[Visit the website](https://postmarked.io/) ·
+[View the app source and installation guide](https://github.com/Backroads4Me/postmarked) ·
+[Report a website problem](https://github.com/Backroads4Me/postmarked-site/issues/new)
+
+This repository contains the static Astro marketing site. The application,
+Docker deployment, documentation, and product screenshots live in the main
+Postmarked repository.
 
 ## Develop
 
